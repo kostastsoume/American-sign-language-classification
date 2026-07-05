@@ -1,18 +1,21 @@
 # American Sign Language Classification
 
-## Overview
+A university machine learning project developed as part of my undergraduate studies in Computer Science with Biomedical Applications at the University of Thessaly.
 
-This project was developed as part of my undergraduate studies in Computer Science with Biomedical Applications at the University of Thessaly.
+This project implements a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify hand gestures from the American Sign Language (ASL) alphabet.
 
-The objective is to classify American Sign Language (ASL) hand gestures using a Convolutional Neural Network (CNN) implemented with TensorFlow and Keras.
+---
 
-## Features
+## Project Features
 
 - Image preprocessing
-- Data visualization
-- CNN model development
-- Model training and evaluation
+- Dataset visualization
+- CNN model implementation
+- Model training and validation
+- Performance evaluation
 - Prediction on unseen images
+
+---
 
 ## Technologies
 
@@ -22,15 +25,23 @@ The objective is to classify American Sign Language (ASL) hand gestures using a 
 - NumPy
 - Matplotlib
 - Scikit-learn
+- Jupyter Notebook
+
+---
 
 ## Future Improvements
 
-- Hyperparameter optimization
 - Data augmentation
-- Model deployment with Streamlit
+- Hyperparameter tuning
+- Model deployment using Streamlit
+- Real-time webcam gesture recognition
+
+---
 
 ## Author
 
 **Konstantinos Tsoumeleas**
+
 B.Sc. Computer Science with Biomedical Applications
+
 University of Thessaly
